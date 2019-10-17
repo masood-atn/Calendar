@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBlue">#3754AE</color>
+    <color name="colorWhite">#FFFF</color>
+    <color name="colorBackground">#EEECEC</color>
+    <color name="colorRed">#AC1B1B</color>
+    <color name="colorSpring">@color/colorBlue</color>
+    <color name="colorSummer">@color/colorBlue</color>
+    <color name="colorAutumn">@color/colorBlue</color>
+    <color name="colorWinter">@color/colorBlue</color>
+</resources>
