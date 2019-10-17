@@ -25,8 +25,6 @@
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="15dp"
-
-
                 android:orientation="vertical">
 
                 <TextView
@@ -53,10 +51,8 @@
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
-
                 android:paddingBottom="3dp">
 
                 <TextView
@@ -84,7 +80,6 @@
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
                 android:paddingBottom="3dp">
@@ -114,7 +109,6 @@
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
                 android:paddingBottom="3dp">
@@ -129,7 +123,6 @@
                     android:paddingBottom="30dp"
                     android:text="@string/mar"
                     android:textColor="@color/colorWhite"
-
                     android:textSize="15sp" />
 
                 <ImageView
@@ -173,11 +166,10 @@
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
                 android:paddingBottom="3dp">
-s
+
                 <TextView
                     android:layout_width="89dp"
                     android:layout_height="match_parent"
@@ -203,7 +195,6 @@ s
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
                 android:paddingBottom="3dp">
@@ -291,7 +282,6 @@ s
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
                 android:paddingBottom="3dp">
@@ -321,7 +311,6 @@ s
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
                 android:paddingBottom="3dp">
@@ -351,7 +340,6 @@ s
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
                 android:paddingBottom="3dp">
@@ -410,7 +398,6 @@ s
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
                 android:paddingBottom="3dp">
@@ -440,7 +427,6 @@ s
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
                 android:paddingBottom="3dp">
@@ -471,7 +457,6 @@ s
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="15dp"
                 android:layout_marginBottom="15dp"
-
                 android:background="@drawable/shadow"
                 android:orientation="horizontal"
                 android:paddingBottom="3dp">
